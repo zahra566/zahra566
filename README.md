@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zahra566
 - 👀 I’m interested in data science and developing software.
-- 🌱 I’m currently learning machine learning.
-- 💞️ I’m looking to collaborate on a simple machine learning project.
+- 🌱 I’m currently learning deep learning.
+- 💞️ I’m looking to collaborate on machine learning projects.
 - 📫 How to reach me? That's easy: shokrollahi213@yahoo.com
 
 <!---
